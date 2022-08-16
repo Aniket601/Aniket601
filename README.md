@@ -1,22 +1,9 @@
 #### Graphql error in instalooter not been resolved yet!
 
-# Fully Automated Youtube Channel
+# Fully Automated Youtube Channel BY ANIKET JADHAV
 
-```
-░█▀▀█ █▀▀█ ▀▀█▀▀ ▀▀█▀▀ █──█ █▀▀▄ █▀▀ █▀▀█ 
-░█▀▀▄ █──█ ──█── ─░█── █──█ █▀▀▄ █▀▀ █▄▄▀ 
-░█▄▄█ ▀▀▀▀ ──▀── ─░█── ─▀▀▀ ▀▀▀─ ▀▀▀ ▀─▀▀
 🄵🅄🄻🄻 🅈🄾🅄🅃🅄🄱🄴 🄲🄷🄰🄽🄽🄴🄻 🄰🅄🅃🄾🄼🄰🅃🄸🄾🄽 🅂🅄🄸🅃🄴
 ```
-
-[![GitHub issues](https://img.shields.io/github/issues/sam5epi0l/BotTuber?color=lightgreeen&style=for-the-badge)](https://github.com/sam5epi0l/BotTuber/issues)
-[![GitHub forks](https://img.shields.io/github/forks/sam5epi0l/BotTuber?color=brightgreen&style=for-the-badge)](https://github.com/sam5epi0l/BotTuber/network)
-[![GitHub stars](https://img.shields.io/github/stars/sam5epi0l/BotTuber?color=blue&style=for-the-badge)](https://github.com/sam5epi0l/BotTuber/stargazers)
-[![GitHub license](https://img.shields.io/github/license/sam5epi0l/BotTuber?color=lightgrey&style=for-the-badge)](https://github.com/sam5epi0l/BotTuber/blob/master/LICENSE)
-<img align="right" width="450" src="https://gh-card.dev/repos/sam5epi0l/BotTuber.png?fullname=" alt="git status" />
-<img align="right" width="150" src="https://raw.githubusercontent.com/sam5epi0l/BotTuber/master/BotTuber.png" alt="BotTuber LOGO" />
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsam5epi0l?style=for-the-badge)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fsam5epi0l%2FBotTuber)
-[![YouTube](https://img.shields.io/badge/videoTutorial-BotTuber-red)](https://youtu.be/BbPErvcqXyw)
 
 
 
@@ -27,7 +14,7 @@ Code to run a fully automated youtube that can scrape content, edit a compilatio
 
 
 
-# Features😶‍🌫️
+# All Features😶‍🌫️
 
     1. Interactive  Auto/Manual mode
     2. Makes Compilation (Intro & Outro)
@@ -78,31 +65,3 @@ Download your OATH file and name it as "googleAPI.json" in your project folder.
 
 11. Enjoy your fully automated youtube channel! :) Note that for uploading public videos, you have to complete an audit for the Youtube API. See the note in the [Google Documentation](https://developers.google.com/youtube/v3/docs/videos/insert). Without this, you can only post private videos, but they approve everyone. Have fun!
 
-## Contributors ✨
-
-Thanks goes to these wonderful people who have improved the code and documentation to help this project grow. :
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/sam5epi0l"><img src="https://avatars.githubusercontent.com/u/68191144?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sam-sepiol</b></sub></a><br /><a href="#content-sam5epi0l" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/nathan-149"><img src="https://avatars.githubusercontent.com/u/5115108?v=4?s=100" width="100px;" alt=""/><br /><sub><b>nathan Ang</b></sub></a><br /><a href="#content-nathan-Ang" title="Content">🖋</a></td>
-  </tr>
-</table>
-
-
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
-
-## Socials
-
-* [YouTube_Channel](https://youtube.com/c/pwnos)
-* [Buy Me A Coffee](https://www.buymeacoffee.com/sam5epi0l)
-* [Patreon](https://www.patreon.com/pwnOS)
-* [LinkedIn](https://linkedin.com/in/sam-sepi0l/)
-* [Quora](https://pwnos.quora.com/)
-* [GitHub](https://github.com/sam5epi0l)
-* [TryHackMe](https://tryhackme.com/signup?referrer=sam.sepiol)
-* [Reddit](https://www.reddit.com/r/pwn05/)
