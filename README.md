@@ -10,7 +10,7 @@ I'm a **Security & Systems Engineer** with a passion for **Threat Detection, Low
 
 ### 🚀 Featured Open-Source Projects
 
-#### 🍎 [Lenovo IdeaPad 3 15IAU7 Hackintosh (OpenCore EFI)](https://github.com/Aniket601/Lenovo-IdeaPad-3-15IAU7-Hackintosh)
+#### 🍎 [Lenovo IdeaPad 3 15IAU7 Hackintosh (OpenCore EFI)](https://github.com/Aniket601/AlderLake-IrisXe-OpenCore)
 > Production-grade, dual-boot OpenCore configuration for **macOS Ventura** on Intel 12th Gen Alder Lake (`i5-1235U`).  
 > * **Highlights:** Full Metal 2 Iris Xe Graphics Acceleration (`0x46A8`, 1536 MB VRAM via patched `WhateverXe`), Realtek ALC257 Layout 100 audio, native ACPI DMA bus arbitration (`SSDT-MCHC` & `SSDT-SBUS`), Wi-Fi 6, and I2C multi-touch trackpad alongside Windows 11.
 
