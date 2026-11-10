@@ -1,47 +1,74 @@
-# Hey, I'm Aniket Jadhav 👋
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&height=50&lines=Hi+I'm+Aniket+Jadhav;Security+%26+Systems+Engineer;Low-Level+Kernel+%26+Hardware+Tinkerer;Upstream+Contributor+to+VoodooI2C" width="100%" alt="Hi, I'm Aniket Jadhav" />
+<br><br>
 
-[![GitHub followers](https://img.shields.io/github/followers/Aniket601?label=Follow&style=social)](https://github.com/Aniket601)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=flat&logo=instagram)](https://instagram.com/me.aniiket)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com)
+<a href="https://www.linkedin.com/in/meaniikett/"><img src="https://img.shields.io/badge/LinkedIn-meaniikett-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="https://instagram.com/me.aniiket"><img src="https://img.shields.io/badge/Instagram-me.aniiket-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+<a href="https://github.com/Aniket601?tab=followers"><img src="https://img.shields.io/badge/followers-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Followers" /></a>
+<a href="https://github.com/VoodooI2C/VoodooI2C/pull/588"><img src="https://img.shields.io/badge/VoodooI2C%20PR%20%23588-merged-0D1117?style=for-the-badge&logo=git&logoColor=8957E5" alt="Merged PR" /></a>
+<img src="https://hits.sh/github.com/Aniket601.svg?style=for-the-badge&label=profile%20views&color=0d1117" alt="Profile views" />
+</div>
 
-I'm a **Security & Systems Engineer** with a passion for **Threat Detection, Low-Level Kernel/Hardware Tinkering**, and **Explainable AI (XAI)**. I love breaking down complex systems from first principles and making software and hardware do things they weren't originally designed to do.
+<br>
 
----
+<a>   
+<img 
+  alt="Aniket Jadhav" 
+  src="https://github.com/Aniket601.png"   
+  style="margin-top:20px;margin-right:20px;border-radius:16px"
+  align="left" 
+  height="300px" 
+/>
+</a>
 
-### 🚀 Featured Open-Source Projects
+```rust
+pub const ANIKET: Engineer = Engineer {
+    name: "Aniket Jadhav",
+    username: "Aniket601",
+    role: "Security & Systems Engineer",
+    interests: &[
+        "🛡️ Threat detection, osquery & cloud security",
+        "🍏 macOS kernel, ACPI / ASL & Hackintosh",
+        "⚡ Low-level hardware & firmware tinkering",
+        "🦀 Systems programming & Linux internals",
+    ],
+    contributions: &[
+        "contributor @VoodooI2C (PR #588) 🖱️",
+    ],
+    flagship_project: "AlderLake-IrisXe-OpenCore (macOS Tahoe & Ventura) 🚀",
+    location: "India 🇮🇳",
+};
+```
 
-#### 🍎 [Lenovo IdeaPad 3 15IAU7 Hackintosh (OpenCore EFI)](https://github.com/Aniket601/AlderLake-IrisXe-OpenCore)
-> Production-grade, dual-boot OpenCore configuration for **macOS Ventura** on Intel 12th Gen Alder Lake (`i5-1235U`).  
-> * **Highlights:** Full Metal 2 Iris Xe Graphics Acceleration (`0x46A8`, 1536 MB VRAM via patched `WhateverXe`), Realtek ALC257 Layout 100 audio, native ACPI DMA bus arbitration (`SSDT-MCHC` & `SSDT-SBUS`), Wi-Fi 6, and I2C multi-touch trackpad alongside Windows 11.
+> "Breaking down complex systems from first principles and making software and hardware do things they weren't originally designed to do."
 
-#### 🛡️ Dual-Stage Explainable NIDS & Automated SOC Triage (Research)
-> High-performance network intrusion detection framework combining **LightGBM** with an **Ambiguity-Gated Isolation Forest** to slash false alarm rates from 10.42% to 0.76% across 2.8M network flows.  
-> * **Highlights:** Sub-millisecond **TreeSHAP (1.14 ms, 1,123× speedup)** mapping feature contributions directly to MITRE ATT&CK techniques, automating containment playbooks to reduce MTTR by 94.8%.
+<br>
 
-#### 📺 Android TV Ecosystem & OS Debloating
-> Custom lightweight Android TV launcher, media streaming engine, and OS debloating automation built to provide a clean, telemetry-free smart TV experience.
+## Open Source Contributions
 
----
+- **[VoodooI2C / VoodooI2C](https://github.com/VoodooI2C/VoodooI2C)**: Documented `-vi2c-force-polling` boot argument and `force-polling` device property for 12th Gen Intel Alder Lake I2C controllers. **[PR #588 (Merged) →](https://github.com/VoodooI2C/VoodooI2C/pull/588)**
 
-### 🛠️ Technical Arsenal
+<br>
+
+## Featured Projects
+
+- **[AlderLake-IrisXe-OpenCore](https://github.com/Aniket601/AlderLake-IrisXe-OpenCore)**: Unified OpenCore EFI for Lenovo IdeaPad 3 15IAU7 running **macOS Tahoe 26.7.1** and **macOS Ventura 13.7.8** with full Metal 2 Iris Xe graphics acceleration, Wi-Fi 6, ALC257 audio, and battery management.
+
+<br>
+
+## Tech Stack
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Security & Detection** | Threat Research, Process Lineage Analysis, MITRE ATT&CK, osquery, FIM, CIS Benchmarks, YARA |
-| **Systems & Low-Level** | macOS OpenCore, ACPI / ASL / SSDTs, Kernel Kexts, Linux Internals, Android OS / ADB |
-| **Machine Learning & AI** | Explainable AI (TreeSHAP), LightGBM, Computer Vision, OpenCV, PyTorch, Scikit-Learn |
-| **Languages & Scripting** | Python, C / C++, Java, Bash / Zsh, SQL, JavaScript |
-| **Cloud & DevOps** | Kubernetes (K3s), Docker, REST APIs, JWT Auth, Git, GitHub |
+| **Security & Systems** | Threat Research, Process Lineage Analysis, MITRE ATT&CK, osquery, FIM, CIS Benchmarks, YARA |
+| **Low-Level & OS** | macOS OpenCore, ACPI / ASL / SSDTs, Kernel Kexts, Linux Internals |
+| **Languages & Scripting** | Python, C / C++, Rust, Bash / Zsh, SQL |
+| **Cloud & Tools** | Docker, Git, GitHub Actions, REST APIs |
 
----
+<br>
 
-### 📊 GitHub Activity & Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniket601&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Aniket's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket601&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<sub>Let's connect on <a href="https://www.linkedin.com/in/meaniikett/">LinkedIn</a> or <a href="https://instagram.com/me.aniiket">Instagram</a></sub> 🚀
 
----
-
-📫 **Get in Touch:** Connect with me on [Instagram](https://instagram.com/me.aniiket) or [LinkedIn](https://linkedin.com)!
+</div>
